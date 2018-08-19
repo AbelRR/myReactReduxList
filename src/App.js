@@ -11,7 +11,7 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">My Ultimate Todo List</h1>
+          <h1 className="App-title"> Abel's React-Redux Todo List</h1>
         </div>
         <div className="Todo-App">
           <Message message="Hello World!" />
